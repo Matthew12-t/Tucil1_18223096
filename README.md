@@ -25,8 +25,7 @@ Program memiliki GUI interaktif berbasis Tkinter yang menampilkan:
 │   ├── LinkedinQueenGUI.py       
 │   └── LinkedinQueenSolver.py    
 ├── bin/                          
-│   ├── LinkedinQueenGUI.exe      
-│   └── LinkedinQueenSolver.exe   
+│   └── LinkedinQueenGUI.exe       
 ├── test/                         
 │   ├── test1.txt                
 │   ├── test2.txt                
