@@ -59,7 +59,7 @@ pip install Pillow
 
 ## Cara Kompilasi
 
-Program ini ditulis dalam Python dan tidak perlu dikompilasi.
+Program ini ditulis dalam Python dan tidak perlu dikompilasi
 
 ## Cara Menjalankan Program
 
@@ -94,6 +94,8 @@ cd bin
 
 ## Cara Menggunakan Program
 
+### GUI 
+
 1. **Load Board via File:**
    - Klik tombol "Input File" untuk memilih file input (.txt)
 
@@ -113,6 +115,21 @@ cd bin
 5. **Save Solution:**
    - Klik "Save as Image" untuk menyimpan solusi dalam format gambar (.png)
    - Klik "Save as Txt" untuk menyimpan solusi dalam format file teks (.txt)
+
+### CLI 
+
+1. **Run the Program:**
+   - Buka Terminal atau Command Prompt
+   - Masuk ke folder src atau bin
+   - Jalankan program
+
+2. **Input Board File (txt):**
+   - Masukkan nama file input (.txt)
+
+3. **Choose Solving Method:**
+   - Masukkan angka 1 untuk solve dengan algoritma brute force
+   - Masukkan angka 2 untuk solve dengan algoritma brute force yang dioptimasi
+
 
 ### Format Input File TXT
 

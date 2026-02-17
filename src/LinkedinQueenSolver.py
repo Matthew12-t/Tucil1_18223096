@@ -106,7 +106,7 @@ class LinkedinQueenSolver:
             result['total'] += 1
             
             if result['total'] % 100 == 0:
-                print(f"==== Iterasi ke-{result['total']} ===")
+                print(f"==== Iterasi ke-{result['total']} ====")
                 self.print_board_with_queens(q_positions)
             
             if self.is_valid(q_positions):
