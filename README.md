@@ -86,12 +86,6 @@ cd src
 python LinkedinQueenSolver.py
 ```
 
-**Melalui Executable:**
-```bash
-cd bin
-.\LinkedinQueenSolver.exe
-```
-
 ## Cara Menggunakan Program
 
 ### GUI 
@@ -120,7 +114,7 @@ cd bin
 
 1. **Run the Program:**
    - Buka Terminal atau Command Prompt
-   - Masuk ke folder src atau bin
+   - Masuk ke folder src 
    - Jalankan program
 
 2. **Input Board File (txt):**
