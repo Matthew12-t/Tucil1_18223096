@@ -1,0 +1,5 @@
+AB#DE
+AACD#
+#BCDE
+CCD#B
+D#EAB
