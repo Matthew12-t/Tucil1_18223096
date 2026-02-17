@@ -2,9 +2,9 @@
 
 ## Author
 
-**Nama:** Matthew Sebastian Kurniawan 
+**Nama:** Matthew Sebastian Kurniawan  
 **NIM:** 18223096  
-**Mata Kuliah:** IF2211 Strategi Algoritma 
+**Mata Kuliah:** IF2211 Strategi Algoritma
 
 ## Penjelasan Singkat Program
 
